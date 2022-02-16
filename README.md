@@ -10,9 +10,9 @@ Questions to answer
 
 ## Roadmap
 1. Get the data (python)
-  1.1. Use ```requests``` package to get data from GitHub
-  1.2. Use ```json``` package to parse data
-  1.3. Use ```pandas``` package to create a data frame and save as .csv file
+    1. Use ```requests``` package to get data from GitHub
+    2. Use ```json``` package to parse data
+    3. Use ```pandas``` package to create a data frame and save as .csv file
 2. Clean / prepare the data (python)
   1. Look at discriptive statistics
   2. Investigte unexpected values
