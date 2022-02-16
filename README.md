@@ -14,7 +14,7 @@ Questions to answer
     2. Use ```json``` package to parse data
     3. Use ```pandas``` package to create a data frame and save as .csv file
 2. Clean / prepare the data (python)
-  1. Look at discriptive statistics
-  2. Investigte unexpected values
+    1. Look at discriptive statistics
+    2. Investigte unexpected values
 3. Analyse the data (python)
 4. Visualize the data in a dashboard (tableau)
